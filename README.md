@@ -1,13 +1,7 @@
-<p align="left"> <img src="https://media.giphy.com/media/VbtPGsIzbUimA/giphy.gif" alt="Rick Talking" width="100px"/> </p>
-
-> "To live is to risk it all. Otherwise, you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you."
->
-> Anyway, here's a bit about me:
-
-- 🔭 I’m currently working on a project that's probably gonna break the multiverse.
-- 🌱 I’m currently learning how to make a real-life portal gun (and also Rust).
-- 👯 I’m looking to collaborate on anything that seems schwifty.
-- 💬 Ask me about theoretical physics, coding, or where to find the best Szechuan sauce.
-- 📫 How to reach me: Just scream my name into the void, or use these links...
-- 😄 Pronouns: Rick/Sanchez
-- ⚡ Fun fact: I believe Birdperson did nothing wrong.
+<h3 align="center">My GitHub Stats (Probably from a timeline where I'm more productive)</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&locale=en&theme=transparent&bg_color=0D1117&text_color=00B5CC&title_color=97CE4C" alt="[YOUR_USERNAME]'s GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=transparent&bg_color=0D1117&text_color=00B5CC&title_color=97CE4C" alt="[YOUR_USERNAME]'s Top Languages" />
+</p>
